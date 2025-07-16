@@ -46,7 +46,7 @@ point collector for wikifa
 
 به آدرس ابزار در Toolforge بروید:
 
-https://tools.wmflabs.org/your-tool-name/
+https://tools.wmflabs.org/pointcollector/
 
 (جایگزین your-tool-name با نام واقعی ابزار خود کنید.)
 
